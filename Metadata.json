@@ -1,0 +1,20 @@
+{
+    "Author": "Robert Smit [MVP]",
+    "ContentSize": 1101,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enable-replication-vm-for-hyperv-cluster/master/Enable%20Replication%20VM%20for%20Hyper-v%20Cluster.ps1",
+    "DownloadCount": 1012,
+    "Id": "Enable-Replication-VM-for-b58bd250",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 360,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "With this Powershell script I'll Check if there are any replication problems on the Current VM's and wiil place the named VM in the variable as a new Virtual Machine Replication to my DR Hyper-v Site. The script Check if both Hyper-v Cluster nodes are Replica enabled.",
+    "Title": "Enable Replication VM for Hyper-v Cluster",
+    "UpdatedDate": "2015-4-10T00:00:00",
+    "Url": "https://github.com/azureautomation/enable-replication-vm-for-hyperv-cluster",
+    "UserTags": "Hyper-V, VMM, failover clustering"
+}
